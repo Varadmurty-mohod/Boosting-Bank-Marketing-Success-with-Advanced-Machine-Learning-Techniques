@@ -6,7 +6,7 @@ Feels like a Netflix show where we're going back in time, On second thought... w
 So brace yourself for this journey, "I'm your Captain speaking, All aboard the SkunksShip! our destination is Portugal 2003, and **Data Science will be our Quantum time travel with an objective to predict whether a customer will subscribe the bank's proposed product or not"**
 
 <p align="center">
-![btf](https://user-images.githubusercontent.com/69577585/230146601-05250c2d-6390-45f9-ab47-9196ac4439c0.gif)
+<![btf](https://user-images.githubusercontent.com/69577585/230146601-05250c2d-6390-45f9-ab47-9196ac4439c0.gif)>
 <p>
 
 
