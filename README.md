@@ -1,4 +1,4 @@
-# Bank-Marketing-Analysis
+# Boosting Bank Marketing Success with Advanced Machine Learning Techniques
 
 It's the year 2008, and a little Bank in Portugal decided to scale up and get more customers, following this idea they decided to call potential customers and talk them into subscibing to their term deposit.
 Fast forward to 2023, A grad student trying to learn about Data Science picks the dataset to analyse all that happened then and determine what lead to the success(or absolute failure) of this campaign.
