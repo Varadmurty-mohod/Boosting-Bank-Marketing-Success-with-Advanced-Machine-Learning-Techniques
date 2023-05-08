@@ -1,5 +1,7 @@
 # Boosting Bank Marketing Success with Advanced Machine Learning Techniques
 
+Medium article for this project: https://medium.com/@varadmurtymohod/boosting-bank-marketing-success-with-advanced-machine-learning-techniques-87f93911f53d
+
 It's the year 2008, and a little Bank in Portugal decided to scale up and get more customers, following this idea they decided to call potential customers and talk them into subscibing to their term deposit.
 Fast forward to 2023, A grad student trying to learn about Data Science picks the dataset to analyse all that happened then and determine what lead to the success(or absolute failure) of this campaign.
 Feels like a Netflix show where we're going back in time, On second thought... why not make it just that?!
